@@ -1,0 +1,6 @@
+D:\Projetos Atuais\Teste\TesteObjectiveFramework\JogoGourmet\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.exe.config
+D:\Projetos Atuais\Teste\TesteObjectiveFramework\JogoGourmet\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.exe
+D:\Projetos Atuais\Teste\TesteObjectiveFramework\JogoGourmet\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.pdb
+D:\Projetos Atuais\Teste\TesteObjectiveFramework\JogoGourmet\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.csprojAssemblyReference.cache
+D:\Projetos Atuais\Teste\TesteObjectiveFramework\JogoGourmet\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.exe
+D:\Projetos Atuais\Teste\TesteObjectiveFramework\JogoGourmet\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.pdb
